@@ -1,4 +1,4 @@
-app = "pasha-test-01"
+app = "flyio-tutorial-87ac"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
